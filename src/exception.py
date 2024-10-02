@@ -22,7 +22,7 @@ class CustomException(Exception):
         return self.error_message
     
 
-# just  checking to  run the exception file 
+# # just  checking to  run the exception file 
 
 # if __name__ == "__main__":
 #     try:
